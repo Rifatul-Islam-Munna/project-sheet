@@ -156,10 +156,5 @@ Open http://localhost:3000 in your browser to view the project.
 
 ## 🚀 More
 
-**Advance your skills with our Next.js and NestJS Pro Course**
+**some work  still on progress but this is more then ok**
 
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, advanced features, and exercises to boost your skills. Give it a go!
-
-**Accelerate your professional journey with our Expert Training program**
-
-Want to tackle real-world tech challenges? Join our personalized masterclass to learn best practices, advanced web skills, and receive mentorship to boost your confidence. Let's grow together!
