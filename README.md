@@ -21,7 +21,7 @@
 
 ### Salles Note - A Note Selling Platform
 
-Build this project step by step with our detailed tutorial on **Your Channel Name** YouTube. Join our community!
+
 
 ## 📋 Table of Contents
 
